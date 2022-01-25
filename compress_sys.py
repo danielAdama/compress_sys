@@ -5,7 +5,7 @@ from pydoc import doc
 from PDFNetPython3.PDFNetPython import PDFDoc, Optimizer, SDFDoc, PDFNet, ImageSettings, OptimizerSettings
 
 dir = r'/home/daniel/Desktop/programming/pythondatascience/datascience/softwaredev/SRMS'
-key = 'demo:1642859730719:7b20666f03000000003e4533a331f3262bff54ff03a946aab73fabc1dd'
+#key = ## Enter your Demo key here
 
 input_dir = f"{dir}/{'compress_app'}/{'input_pdf'}"
 output_dir = f"{dir}/{'compress_app'}/{'output_folder'}"
